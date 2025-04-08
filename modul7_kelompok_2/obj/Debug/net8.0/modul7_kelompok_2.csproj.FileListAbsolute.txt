@@ -14,3 +14,4 @@ C:\Users\ASUS\source\repos\modul7_kelompok_2\modul7_kelompok_2\obj\Debug\net8.0\
 C:\Users\ASUS\source\repos\modul7_kelompok_2\modul7_kelompok_2\obj\Debug\net8.0\modul7_kelompok_2.pdb
 C:\Users\ASUS\source\repos\modul7_kelompok_2\modul7_kelompok_2\obj\Debug\net8.0\modul7_kelompok_2.genruntimeconfig.cache
 C:\Users\ASUS\source\repos\modul7_kelompok_2\modul7_kelompok_2\obj\Debug\net8.0\ref\modul7_kelompok_2.dll
+C:\Users\ASUS\source\repos\modul7_kelompok_2\modul7_kelompok_2\bin\Debug\net8.0\jurnal7_2_103022330070.json
