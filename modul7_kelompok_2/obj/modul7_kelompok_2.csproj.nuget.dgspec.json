@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\source\\repos\\modul7_kelompok_2\\modul7_kelompok_2\\modul7_kelompok_2.csproj": {}
+    "C:\\Users\\macbookpro\\Source\\Repos\\modul7_kelompok_2\\modul7_kelompok_2\\modul7_kelompok_2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\source\\repos\\modul7_kelompok_2\\modul7_kelompok_2\\modul7_kelompok_2.csproj": {
+    "C:\\Users\\macbookpro\\Source\\Repos\\modul7_kelompok_2\\modul7_kelompok_2\\modul7_kelompok_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\modul7_kelompok_2\\modul7_kelompok_2\\modul7_kelompok_2.csproj",
+        "projectUniqueName": "C:\\Users\\macbookpro\\Source\\Repos\\modul7_kelompok_2\\modul7_kelompok_2\\modul7_kelompok_2.csproj",
         "projectName": "modul7_kelompok_2",
-        "projectPath": "C:\\Users\\ASUS\\source\\repos\\modul7_kelompok_2\\modul7_kelompok_2\\modul7_kelompok_2.csproj",
-        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\source\\repos\\modul7_kelompok_2\\modul7_kelompok_2\\obj\\",
+        "projectPath": "C:\\Users\\macbookpro\\Source\\Repos\\modul7_kelompok_2\\modul7_kelompok_2\\modul7_kelompok_2.csproj",
+        "packagesPath": "C:\\Users\\macbookpro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\macbookpro\\Source\\Repos\\modul7_kelompok_2\\modul7_kelompok_2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\macbookpro\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -49,6 +49,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
