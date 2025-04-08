@@ -32,7 +32,6 @@ public class DataMahasiswa_103022300025
     }
 }
 
-// === Diletakkan di luar class utama ===
 public class Address
 {
     public string StreetAddress { get; set; }
