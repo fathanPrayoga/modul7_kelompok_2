@@ -1,0 +1,55 @@
+{
+  "members": [
+    {
+      "firstName": "damai",
+      "lastName": "putra",
+      "gender": "male",
+      "age": 20,
+      "nim": "7349282382"
+    },
+    {
+      "firstName": "achmad fadjry",
+      "lastName": "adlil faqih",
+      "gender": "male",
+      "age": 20,
+      "nim": "5678568567"
+    },
+    {
+      "firstName": "bagus ",
+      "lastName": "hardiyanto",
+      "gender": "male",
+      "age": 20,
+      "nim": "456754675"
+    },
+    {
+      "firstName": "reilutfi ",
+      "lastName": "shidqi",
+      "gender": "male",
+      "age": 20,
+      "nim": "567856815567"
+
+    },
+    {
+      "firstName": "valentino",
+      "lastName": "bimo",
+      "gender": "male",
+      "age": 20,
+      "nim": "563278568567"
+    },
+    {
+      "firstName": "fathan",
+      "lastName": "prayoga",
+      "gender": "male",
+      "age": 20,
+      "nim": "5678568561237"
+    },
+    {
+      "firstName": "muhamad ",
+      "lastName": "rafi",
+      "gender": "male",
+      "age": 20,
+      "nim": "5678568561117"
+    }
+  ]
+}
+}
