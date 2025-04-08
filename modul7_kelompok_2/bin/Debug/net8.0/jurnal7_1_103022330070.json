@@ -1,0 +1,16 @@
+{
+   "firstName": "Fatham Prayoga",
+   "lastName": "Wicaksono",
+   "gender": "male",
+   "age": 19,
+   "address": {
+       "streetAddress": "PBB",
+       "city": "Bandung",
+       "state": "West Java"
+   },
+   "courses": [
+       { "code": "CRI2C4", "name": "Konstruksi Perangkat Lunak" },
+       { "code": "CRI2sa", "name": "Kecerdasan Buatan" }
+
+   ]
+}

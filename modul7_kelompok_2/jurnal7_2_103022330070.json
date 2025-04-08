@@ -1,0 +1,49 @@
+{
+  "members" : [
+    {
+       "firstName": "Damai",
+       "lastName": "Putra",
+       "gender": "male",
+       "age": 19,
+       "nim": "7349282382"
+    },
+    {
+       "firstName": "Ahmad",
+       "lastName": "Fajri",
+       "gender": "male",
+       "age": 19,
+       "nim": "5678568567"
+    },
+    {
+      "firstName": "Fathan Prayoga",
+      "lastName": "Wicaksono",
+      "gender": "male",
+      "age": 19,
+      "nim": "103022330070"
+    }
+
+    {
+      "firstName": "Reiluthfi",
+      "lastName": "Sidqi",
+      "gender": "male",
+      "age": 19,
+      "nim": "1030223"
+    }
+
+    {
+      "firstName": "bagus",
+      "lastName": "hardiyanto",
+      "gender": "male",
+      "age": 19,
+      "nim": "10330070"
+    }
+
+    {
+      "firstName": "valentino",
+      "lastName": "bimo",
+      "gender": "male",
+      "age": 19,
+      "nim": "100070"
+    }
+  ]
+}
