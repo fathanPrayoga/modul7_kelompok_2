@@ -1,4 +1,5 @@
-﻿using modul7_kelompok_2;
+
+using modul7_kelompok_2;
 using System;
 
 public class Program
@@ -13,3 +14,4 @@ public class Program
         team.ReadJSON();
     }
 }
+
