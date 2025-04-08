@@ -14,5 +14,11 @@ class Program
         var team = TeamMembers_103022300025.ReadJSON(@"jurnal7_2_103022300025.json");
         Console.WriteLine("===== TEAM MEMBERS =====");
         team.PrintData();
+
+        Console.WriteLine(); 
+
+        var glossary = GlossaryItem_103022300025.ReadJSON(@"jurnal7_3_103022300025.json");
+        Console.WriteLine("===== GLOSSARY ITEM =====");
+        glossary.PrintData();
     }
 }
